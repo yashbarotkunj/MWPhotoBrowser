@@ -13,6 +13,7 @@
 #import "MWPhoto.h"
 #import "MWPhotoBrowser.h"
 
+
 @interface MWPhoto () {
 
     BOOL _loadingInProgress;
